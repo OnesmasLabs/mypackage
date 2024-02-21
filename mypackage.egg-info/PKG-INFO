@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/OnesmasLabs/mypackage.git
+Author: OnesmasLabs,
+Author-email: terrybetty97@students.tukenya.ac.ke
+License: MIT
+
+# mypackage
+This library was created as an example of ho to creat a package.
